@@ -1,0 +1,20 @@
+{
+  "geode": "4.3.1",
+  "version": "v1.0.0",
+  "gd": {
+      "win": "2.2074"
+      "android": "2.2074"
+      "mac": "2.2074"
+},
+"early-load": false,
+"id": "danylo.adfreechest",
+"developer": "Danylo",
+"description": "Watch an ad and get a free chest!"
+  "links": {
+        "source" :"https://github.com/DANYLOGOODBOY/Ad-for-free-chest"
+  }
+
+  "tags":
+          {
+  
+          
